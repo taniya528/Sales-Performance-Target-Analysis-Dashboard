@@ -25,9 +25,13 @@ Slicers
 Conditional Formatting
 
 Dashboard Design
-📊
+
 ## 🔹 Purpose:
 
-This project was created for practice and portfolio purposes to demonstrate Excel analytics and dashboard-building skills useful for Data Analyst and Business Analyst roles.
+📊This project was created for practice and portfolio purposes to demonstrate Excel analytics and dashboard-building skills useful for Data Analyst and Business Analyst roles.
 
 This dashboard helps in making quick, data-driven decisions by providing actionable insights at a glance.
+
+## 🔹 Dashboard:
+
+![Dashboard Preview](https://github.com/taniya528/Sales-Performance-Target-Analysis-Dashboard/blob/main/Excel%20Project.png)

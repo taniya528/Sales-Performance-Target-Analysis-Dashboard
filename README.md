@@ -4,6 +4,9 @@
 
 An interactive Excel dashboard project designed to analyze sales performance, target achievement, and target gaps across different cities and sales executives.
 
+## Dataset
+[Download Dataset](https://github.com/taniya528/Sales-Performance-Target-Analysis-Dashboard/blob/main/Sales%20Project%20using%20Excel.xlsm)
+
 ## 🔹 Key Highlights:
 
 Dynamic city-wise filtering using slicers

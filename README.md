@@ -1,10 +1,10 @@
 # Sales-Performance-Target-Analysis-Dashboard
 
-Sales Performance & Target Analysis Dashboard (Excel)
+## Sales Performance & Target Analysis Dashboard (Excel)
 
 I recently built an interactive dashboard in Excel to analyze sales performance, target achievement, and gap analysis across multiple regions.
 
-🔹 Key Highlights:
+## 🔹 Key Highlights:
 
 Dynamic city-wise filtering using slicers
 

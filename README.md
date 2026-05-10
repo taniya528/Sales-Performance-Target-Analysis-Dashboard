@@ -1,6 +1,6 @@
-# Sales-Performance-Target-Analysis-Dashboard
+# Sales-Performance-Target-Analysis-Dashboard (Excel)
 
-## Sales Performance & Target Analysis Dashboard (Excel)
+## Sales Performance & Target Analysis Dashboard 
 
 An interactive Excel dashboard project designed to analyze sales performance, target achievement, and target gaps across different cities and sales executives.
 
